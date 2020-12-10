@@ -9,4 +9,4 @@ The 16th Plenary meeting of the Research Data Alliance took place 9-12 November 
 
 With the theme "[Knowledge Ecology](https://www.rd-alliance.org/rda-16th-plenary-theme-knowledge-ecology)", the event was co-organised by CONARE Costa Rica, RDA United States and Research Data Canada.  
 
-To learn more about the event, please visit the links in the side navigation.
+To learn more about the event, please visit the [RDA page](https://www.rd-alliance.org/plenaries/rda-16th-plenary-meeting-costa-rica-virtual).
